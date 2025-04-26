@@ -1,24 +1,26 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# Ignorar logs
+panel-react/logs
+panel-react/*.log
+panel-react/npm-debug.log*
+panel-react/yarn-debug.log*
+panel-react/yarn-error.log*
+panel-react/pnpm-debug.log*
+panel-react/lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# Ignorar build y dependencias
+panel-react/node_modules
+panel-react/dist
+panel-react/dist-ssr
+panel-react/*.local
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Ignorar archivos de configuración del editor
+panel-react/.vscode/*
+!panel-react/.vscode/extensions.json
+panel-react/.idea
+panel-react/.DS_Store
+panel-react/*.suo
+panel-react/*.ntvs*
+panel-react/*.njsproj
+panel-react/*.sln
+panel-react/*.sw?
+
