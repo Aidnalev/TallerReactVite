@@ -63,9 +63,9 @@ panel-react/
 
 ## 🖼 Captura de pantalla
 
-```
+
 ![Panel Administrativo](./Captura de pantalla 2025-04-25 203705.png)
-```
+
 
 ---
 
