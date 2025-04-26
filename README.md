@@ -63,11 +63,15 @@ panel-react/
 
 ## 🖼 Captura de pantalla
 
-_Añade aquí una imagen del resultado visual del proyecto._
 
+<<<<<<< HEAD
 ```
 ![Panel Administrativo](./Screenshot.png)
 ```
+=======
+![Panel Administrativo](./Captura de pantalla 2025-04-25 203705.png)
+
+>>>>>>> origin/main
 
 ---
 
