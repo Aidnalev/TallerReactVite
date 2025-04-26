@@ -66,7 +66,7 @@ panel-react/
 _Añade aquí una imagen del resultado visual del proyecto._
 
 ```
-![Panel Administrativo](./screenshot.png)
+![Panel Administrativo](./Screenshot.png)
 ```
 
 ---
