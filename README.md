@@ -63,7 +63,7 @@ panel-react/
 
 ## 🖼 Captura de pantalla
 
-![Panel Administrativo](./Screenshot.png)
+![Panel Administrativo](./Screenshoot.png)
 
 ---
 
